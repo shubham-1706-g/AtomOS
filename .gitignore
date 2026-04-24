@@ -1,0 +1,8 @@
+node_modules
+dist
+.claude/settings.local.json
+*.png
+!public/**/*.png
+!bg-image.png
+tasks.json
+.codex
